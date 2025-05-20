@@ -1,0 +1,16 @@
+https:<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+</head>
+<body>
+    <table border="2"style ="border:2px dashed aqua;"cellpadding="5"cellspacing="20">
+        <tr> <th style="border:1px solid blue; colour:red;">name</th> <th style ="border:1px solid pink; colour: black;">age</th> </tr>
+        <tr> <td style ="border:1px dashed red ;">feheja</td> <td style="border:1px dotted purple;">18</td> </tr>
+        <tr> <td style="border:1px dotted black ;">radha 
+        </td> <td style="border:1px dashed orange;"
+        >18</td> </td>
+       </table>
+</body>
+</html>
