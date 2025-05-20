@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Page title</title>
+</head>
+<body>
+    text_align: center;
+    font_family:arial,sans_serif;
+    }
+    h1,h2 {
+    margin:0;
+    padding:10px;
+    }
+    hr{
+    margin:20px 0;
+    }
+    <div style=""
+    
+</body>
+</html>
